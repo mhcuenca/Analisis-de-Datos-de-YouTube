@@ -8,4 +8,4 @@ Tenemos un cliente que quiere lanzar una campaña online y han seleccionado yout
 
 - cuáles son los factores que influyen en la popularidad de un vídeo de YouTube 
 
-estas son las cosas que quieren entender antes de invertir dinero en la campaña de youtube  
+estas son las cosas que quieren entender antes de invertir dinero en la campaña de youtube, eligieron YouTube ya que es el segundo sitio web mas visitado del mundo.  
