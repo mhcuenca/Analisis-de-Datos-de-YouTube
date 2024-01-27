@@ -11,6 +11,7 @@ Tenemos un cliente que quiere lanzar una campaña online y han seleccionado yout
 estas son las cosas que quieren entender antes de invertir dinero en la campaña de youtube, eligieron YouTube ya que es el segundo sitio web mas visitado del mundo.  
 
 <h2> Objetivos del proyecto</h2>
+
 1. Ingesta de datos: Crearemos una mecanismo para la ingesta de data de diferentes fuentes.
 2. ETL: Estamos recibiendo los datos en formato raw, transformaremos esta data en un formato apropiado.
 3. Data Lake:  Vamos a obtener datos de múltiples fuentes por lo que necesitamos un repositorio centralizado para almacenarlos.
