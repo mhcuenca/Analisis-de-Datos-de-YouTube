@@ -18,3 +18,12 @@ estas son las cosas que quieren entender antes de invertir dinero en la campaña
 4. Escalabilidad: A medida que el tamaño de nuestros datos aumenta, tenemos que asegurarnos de que nuestro sistema escala con él.
 5. Cloud: No podemos procesar grandes cantidades de datos en nuestro ordenador local, por lo que necesitamos utilizar la nube, en este caso, utilizaremos AWS.
 6. Reporte: Creamos un dashboard para obtener respuestas a las preguntas que formulamos anteriormente.
+
+<h2>Servicios que utilizaremos</h2>
+
+1. Amazon S3: servicio de almacenamiento de objetos que proporciona escalabilidad, disponibilidad de datos, seguridad y rendimiento.
+2. AWS IAM: Servicio que le permite administrar el acceso a los servicios y recursos de AWS de forma segura.
+3. Amazon QuickSight: servicio de Business Intelligence (BI) escalable, sin servidor que facilita el análisis de datos y la obtención de información.
+4. AWS Glue: Servicio de integración de datos sin servidor que facilita el descubrimiento, preparar, mover e integrar datos de múltiples fuentes.
+5. AWS Lambda: Lambda es un servicio informático que permite a los programadores ejecutar código sin crear ni gestionar servidores.
+6. AWS Athena: Athena es un servicio de consulta interactivo para S3 en el que no es necesario cargar datos, sino que estos permanecen en S3.
