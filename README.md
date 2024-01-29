@@ -27,3 +27,8 @@ estas son las cosas que quieren entender antes de invertir dinero en la campaña
 4. AWS Glue: Servicio de integración de datos sin servidor que facilita el descubrimiento, preparar, mover e integrar datos de múltiples fuentes.
 5. AWS Lambda: Lambda es un servicio informático que permite a los programadores ejecutar código sin crear ni gestionar servidores.
 6. AWS Athena: Athena es un servicio de consulta interactivo para S3 en el que no es necesario cargar datos, sino que estos permanecen en S3.
+
+<h2>Conjunto de datos usados</h2>
+Este dataset de Kaggle contiene estadísticas (archivos CSV) sobre vídeos populares diarios de YouTube a lo largo de varios meses. Hay hasta 200 vídeos de tendencias publicados cada día para muchas ubicaciones. Los datos de cada región están en su propio archivo. El título del vídeo, el título del canal, la hora de publicación, las etiquetas, las visualizaciones, los "me gusta" y "no me gusta", la descripción y el recuento de comentarios son algunos de los elementos incluidos en los datos. También se incluye un campo category_id, que difiere según la zona, en el archivo JSON vinculado a la región.
+
+![](https://www.kaggle.com/datasets/datasnaek/youtube-new)
